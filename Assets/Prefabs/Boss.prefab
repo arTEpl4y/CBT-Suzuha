@@ -173,8 +173,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  staypositiontimemin: 2
-  staypositiontimemax: 7
+  staypositiontimemin: 1
+  staypositiontimemax: 2
   hitpoints: 10
   Wall: {fileID: 0}
 --- !u!114 &-8644591494399992019
